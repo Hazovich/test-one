@@ -1,0 +1,20 @@
+{
+  "param 1": {
+    "name": "meters",
+    "distance": {
+      "unit": "m",
+      "value": 0.5
+    },
+    "convert_to": "ft"
+  },
+
+  "param 2": {
+    "name": "meters",
+    "distance": {
+      "unit": "ft",
+      "value": 0.5
+    },
+    "convert_to": "m"
+  }
+
+}
